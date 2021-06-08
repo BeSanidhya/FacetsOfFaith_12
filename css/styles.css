@@ -236,35 +236,21 @@ img:nth-child(5) {
 }
 
 
-@media (max-width:800px){
-  #home-container {
-    margin-bottom: 30%;
-  }
-  .about-content{
-    padding-top: 5%;
-  }
-  .pic-ctn{
-    left: -13%;
-  }
-  .about-content{
-    font-size: 1.5rem;
-  }
-}
 
-@media (max-width:768px) {
+@media all and (max-width:768px) {
   #home-container {
-    margin-bottom: 10%;
+    margin-bottom: 13%;
   }
   .pic-ctn {
-    top:40%;
+    top:45%;
 }
 .about-content{
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 }
 
-@media (max-width:480px){
+@media all and (max-width:480px){
   #home-container {
     margin-bottom: 0%;
   }
