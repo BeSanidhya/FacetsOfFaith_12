@@ -258,10 +258,10 @@ img:nth-child(5) {
 
 @media (max-width:550px) and (min-width:424px){
   #home-container {
-    margin-bottom: 50%;
+    margin-bottom: 40%;
   }
   .pic-ctn {
-    top: 55%;
+    top: 48%;
     width: 130%;
     left: -30%;
     
